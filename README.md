@@ -13,17 +13,24 @@ Check out some of my projects that are soon to being updated on here at [https:/
 
 
 ## My Top Languages 💻
-<img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/python.svg">
-<img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/java.svg">
-<img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/javascript.svg"/>
-<img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/racket.svg"/>
-<img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/lua.svg"/>
+<div>
+  <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/python.svg">
+  <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/java.svg">
+  <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/javascript.svg"/>
+  <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/racket.svg"/>
+  <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/lua.svg"/>
+</div>
+
+| <img width='100%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/python.svg"/> | <img width='100%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/java.svg"/> | <img width='100%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/javascript.svg"/> | <img width='100%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/racket.svg"/> | <img width='100%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/lua.svg"/> |
+| ------------ | ------------- | ------------ | ------------ | ------------ |
 
 
 
 ## My Education 📖
+<div>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/University_of_Waterloo_seal.svg/1200px-University_of_Waterloo_seal.svg.png" width='15%'>
 <img src="https://nikosrentas.com/wp-content/uploads/2011/11/wilfred-laurier-golden-hawks-logo.jpg" width='15%'>
+</div>
 
 
 
