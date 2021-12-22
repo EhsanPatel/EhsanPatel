@@ -14,15 +14,11 @@ Check out some of my projects that are soon to being updated on here at [https:/
 
 ## My Top Languages 💻
 <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/python.svg">
-
 <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/java.svg">
-
 <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/javascript.svg"/>
-
 <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/racket.svg"/>
-
 <img width='10%' src="https://raw.githubusercontent.com/simple-icons/simple-icons/2c351f6452ce51d05294d0c31040bfaa389850c3/icons/lua.svg"/>
-<br>
+
 
 
 ## My Education 📖
