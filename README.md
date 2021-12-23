@@ -3,7 +3,7 @@
 
 
 # Hi there, I'm Ehsan Patel! 👋
-I am a current student at <strong>University of Waterloo</strong> for computer science and <strong>Wilfrid Laurier</strong> for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), beginning my 1B term. I am the owner of <strong>Echo Web Design,</strong> a web development business that I created to further explore🔍
+I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), beginning my 1B term. I am the owner of **Echo Web Design,** a web development business that I created to further explore🔍
 
 
 
@@ -24,11 +24,18 @@ Check out some of my projects that are soon to being updated on here at [https:/
 
 
 ## My Education 📖
+<!--
 <div>
 <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true" width='32%'>
 <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true" width='32%'>
 <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true" width='32%'>
-</div>
+</div>-->
+
+
+
+| <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true"> | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true"> | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true"> |
+| :----: | :----: | :----: |
+| **Waterloo CS** *(2021-2026)* | **Laurier BBA** *(2021-2026)* | **CCVI OSSD** *(2017-2021)* |
 
 
 
@@ -38,3 +45,5 @@ Check out some of my projects that are soon to being updated on here at [https:/
   <a href="mailto:ehsanpatel@echoweb.ca">
     <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Email.png?raw=true" width='10%'>
   </a>
+
+
