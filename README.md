@@ -25,9 +25,9 @@ Check out some of my projects that are soon to being updated on here at [https:/
 
 ## My Education 📖
 <div>
-<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true" width='120px'>
-<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true" width='120px'>
-<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true" width='120px'>
+<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true" width='32%'>
+<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true" width='32%'>
+<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true" width='32%'>
 </div>
 
 
