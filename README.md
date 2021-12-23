@@ -5,12 +5,12 @@
 # Hi there, I'm Ehsan Patel! 👋
 I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), beginning my 1B term. I am the owner of **Echo Web Design,** a web development business that I created to further explore🔍
 
-
+<br>
 
 ## Project Collection 📓
 Check out some of my projects that are soon to being updated on here at [https://profile.echoweb.ca](https://profile.echoweb.ca).Please note that most of these projects were created prior to my knowledge of GitHub so I am slowly moving their code online to share with the world!
 
-
+<br>
 
 ## My Top Languages 💻
 <div>
@@ -21,7 +21,7 @@ Check out some of my projects that are soon to being updated on here at [https:/
   <img width='10%' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"/>
 </div>
 
-
+<br>
 
 ## My Education 📖
 <!--
@@ -37,7 +37,7 @@ Check out some of my projects that are soon to being updated on here at [https:/
 | :----: | :----: | :----: |
 | **Waterloo CS** *(2021-2026)* | **Laurier BBA** *(2021-2026)* | **CCVI OSSD** *(2017-2021)* |
 
-
+<br>
 
 ## Connect With Me 🔗
   <a href="https://www.linkedin.com/in/ehsan-patel/"><img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/LinkedIn.png?raw=true" width='10%'>
@@ -45,5 +45,3 @@ Check out some of my projects that are soon to being updated on here at [https:/
   <a href="mailto:ehsanpatel@echoweb.ca">
     <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Email.png?raw=true" width='10%'>
   </a>
-
-
