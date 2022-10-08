@@ -3,7 +3,7 @@
 
 
 # Hi there, I'm Ehsan Patel! 👋
-I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), having completed my 1B term. I am the owner of **Echo Web Design,** a web development business that I created to further explore the industry🔍
+I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), within my 2A term. I am the owner of **Echo Web Design,** a web development business that I created to further explore the industry🔍
 
 <br>
 
