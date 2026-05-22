@@ -3,7 +3,7 @@
 
 
 # Hi there, I'm Ehsan Patel! 👋
-I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), within my 2A term. I am the owner of **Echo Web Design,** a web development business that I created to further explore the industry🔍
+I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), within my 5B term. I am the owner of **Echo Web Design,** a web development business that I created to further explore the industry🔍
 
 <br>
 
@@ -12,26 +12,7 @@ Check out some of my projects that are soon to being updated on here at [https:/
 
 <br>
 
-## My Top Languages 💻
-<div>
-  <img width='10%' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-  <img width='10%' src="https://plumbr.io/app/uploads/2019/06/java.png">
-  <img width='10%' src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"/>
-  <img width='10%' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/1200px-Racket-logo.svg.png"/>
-  <img width='10%' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"/>
-</div>
-
-<br>
-
 ## My Education 📖
-<!--
-<div>
-<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true" width='32%'>
-<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true" width='32%'>
-<img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true" width='32%'>
-</div>-->
-
-
 
 | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true"> | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true"> | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true"> |
 | :----: | :----: | :----: |
