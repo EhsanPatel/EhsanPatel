@@ -1,28 +1,35 @@
-![Banner](https://github.com/EhsanPatel/EhsanPatel/blob/master/Banner%20(Mixed).png?raw=true")
+<a href="https://ehsanpatel.ca">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ehsanpatel.ca/images/signature-light.png">
+    <img src="https://ehsanpatel.ca/images/signature-ink.png" alt="Ehsan Patel" width="420">
+  </picture>
+</a>
 
+### I take ideas from prototype *to production.*
 
+Great products feel *effortless*. That takes *real work*.
 
-# Hi there, I'm Ehsan Patel! 👋
-I am a current student at **University of Waterloo** for computer science and **Wilfrid Laurier** for business. I am enrolled in the [Double-Degree Program](https://www.wlu.ca/programs/business-and-economics/undergraduate/business-bba-and-computer-science-bcs-uw/index.html), within my 5B term. I am the owner of **Echo Web Design,** a web development business that I created to further explore the industry🔍
+```ts
+const ehsan = {
+  interests: ["finance", "AI/ML", "startups"],
+  builds:    ["UI", "dev tools", "data pipelines"],
+  stack:     "whatever fits the problem",
+  based:     "Guelph, ON",
+  ships:     true,
+};
+```
 
-<br>
+`section#work { env: production }`
 
-## Project Collection 📓
-Check out some of my projects that are soon to being updated on here at [https://profile.echoweb.ca](https://profile.echoweb.ca).Please note that most of these projects were created prior to my knowledge of GitHub so I am slowly moving their code online to share with the world!
+- **ShipIQ** · Lead Developer & Infra Manager · B2B integrations, routing engines, delivery apps, and the data pipelines behind them
+- **Vortex Canada** · Full Stack Dev & Analyst · moved a multilingual B2B + B2C e-commerce platform between major systems without stopping traffic
+- **Echo Web Design** · Full Stack Dev (Self-Employed), since 2019
 
-<br>
+`section#education { degrees: 2 }`
 
-## My Education 📖
+CS (AI specialization) at **Waterloo** + BBA (Finance/Economics) at **Laurier**: I can sell the vision and build the product that delivers on it.
 
-| <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Waterloo.png?raw=true"> | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Laurier.png?raw=true"> | <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/CCVI.png?raw=true"> |
-| :----: | :----: | :----: |
-| **Waterloo CS** *(2021-2026)* | **Laurier BBA** *(2021-2026)* | **CCVI OSSD** *(2017-2021)* |
+---
 
-<br>
-
-## Connect With Me 🔗
-  <a href="https://www.linkedin.com/in/ehsan-patel/"><img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/LinkedIn.png?raw=true" width='10%'>
-  </a>
-  <a href="mailto:ehsanpatel@echoweb.ca">
-    <img src="https://github.com/EhsanPatel/EhsanPatel/blob/master/Email.png?raw=true" width='10%'>
-  </a>
+**Let's build something *people trust.***\
+[ehsanpatel.ca](https://ehsanpatel.ca) · [ehsanpatel@echoweb.ca](mailto:ehsanpatel@echoweb.ca) · [LinkedIn](https://www.linkedin.com/in/ehsan-patel)
